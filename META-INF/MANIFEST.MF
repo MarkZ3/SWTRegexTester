@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: testRegex
+Bundle-SymbolicName: SWTRegexTester
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: testRegex.jar,
+ emalape/Documents/dev/eclipse/plugins/org.eclipse.swt.gtk.linux.x86_64_3.103.0.v20140430-1146.jar
+Export-Package: .,
+ swtregextester
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Require-Bundle: org.eclipse.swt
